@@ -4,7 +4,7 @@ setTimeout(() => {
   container.classList.add('fade-out');
 
   setTimeout(() => {
-    window.location.href = 'AI/AI.html';
+    window.location.href = 'AI.html';
   }, 1500); // Match the CSS fade-out time
 }, 4000);
 
